@@ -7,3 +7,7 @@ package main
 // git commit
 
 // git push
+
+//git pull
+
+// git log
